@@ -1,0 +1,7 @@
+build/
+dist/
+*.exe
+*.pyc
+__pycache__/
+*.zip
+attack_results_log.txt
